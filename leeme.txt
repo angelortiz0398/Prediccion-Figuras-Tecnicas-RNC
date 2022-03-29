@@ -1,0 +1,21 @@
+- Abrir archivo "Prediccion.exe - acceso directo" y utilizar el nombre y extension de una de las imagenes para comprobar la funcionalidad del programa.
+
+- Es un acceso directo a /dist/Prediccion/Prediccion.exe
+
+- Las imagenes de prueba estan nombradas con las iniciales de la figura que pertenecen. Las figuras son las siguientes:
+Cambios en V
+Doble o Triple Suelo
+Doble o Triple Techo
+Hombro Cabeza Hombro
+Suelo o Techo Redondeado
+Hombro Triángulos Ascendentes y Descendentes
+Taza con Asa
+Superiores e Inferiores de Diamante
+Bandera
+Rectángulo Inferior
+
+- La razon por las que no salen muchas figuras es porque no encontre muchas imagenes para entrenar el modelo y las que si, son las que mas detecta.
+
+- Puede intentar con otras imagenes
+
+- El ejecutable de java solo muestra un ejemplo de un conjunto de precios reales de una accion y como se calcula regresion lineal (Una sola tendencia). Se ve la importancia de nuestro programa para predecir cambios de tendencia. 

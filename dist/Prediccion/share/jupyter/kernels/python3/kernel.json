@@ -1,0 +1,11 @@
+{
+ "argv": [
+  "C:/Users/9/anaconda3/envs/MachineLearning\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3",
+ "language": "python"
+}
